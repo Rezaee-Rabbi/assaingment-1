@@ -3,6 +3,7 @@
     padding: 0;
     font-family: 'Montserrat', sans-serif;
     line-height: 1.5em;
+    overflow-x: hidden;
 
 }
 
@@ -17,7 +18,7 @@ p {
 
 
 .banner-container {
-    background-image: url(/images/donation0.jpg);
+    background-image: url(../images/donation0.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -185,6 +186,7 @@ hr {
 .help-img img {
     width: 70%;
     margin-left: 40px;
+    border-radius: 10px;
 }
 
 .update-container {
