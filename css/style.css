@@ -110,3 +110,51 @@ p {
     margin-top: 70px;
     color: gray;
 }
+
+hr {
+    margin-top: 10px;
+}
+
+.donate-plan-container {
+    width: 100%;
+    margin-top: 70px;
+}
+
+.donate-plan-header {
+    width: 60%;
+    margin-top: 30px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.donate-plan-row {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: justify;
+    padding: 3% 5%;
+
+}
+
+.donate-box-content {
+    margin: 10px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.donate-box-content h3 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.one {
+    background-color: #c5f8e9;
+}
+
+.two {
+    background-color: #f5c9c9;
+}
+
+.three {
+    background-color: #c4c3f5;
+}
