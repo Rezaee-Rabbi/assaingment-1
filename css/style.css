@@ -164,14 +164,13 @@ hr {
 
 .help-container {
     width: 100%;
-    padding: 5%;
 }
 
 .help-area {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding-left: 50px;
+    padding: 5%;
 
 }
 
