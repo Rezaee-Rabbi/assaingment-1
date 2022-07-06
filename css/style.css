@@ -55,8 +55,8 @@ p {
 
 .btn {
     padding: 15px 30px;
-    font-size: 20px;
-    margin-top: 20px;
+    font-size: 18px;
+    margin-top: 30px;
     border-radius: 10px;
     background-color: rgb(248, 72, 41);
     color: white;
@@ -157,4 +157,30 @@ hr {
 
 .three {
     background-color: #c4c3f5;
+}
+
+.help-container {
+    width: 100%;
+    padding: 5%;
+}
+
+.help-area {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 50px;
+
+}
+
+.help-description p {
+    margin-top: 20px;
+}
+
+.half {
+    width: 50%;
+}
+
+.help-img img {
+    width: 70%;
+    margin-left: 40px;
 }
